@@ -1,0 +1,8 @@
+util\HibernateConfig.class
+entities\Category.class
+dao\IDao.class
+entities\Category1.class
+util\Presentation2.class
+metier\ProductDaoImpl.class
+org\example\App.class
+entities\Product.class
